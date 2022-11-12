@@ -128,7 +128,7 @@ Connect your device via ST-Link and run:
 - `debug`           - Debug tool: GDB-plugins, SVD-file and etc
 - `documentation`   - Documentation generation system configs and input files
 - `firmware`        - Firmware source code
-- `lib`             - Our and 3rd party libraries, drivers, etc.
+- `lib`             - Our and 3rd party libraries, drivers, etc
 - `scripts`         - Supplementary scripts and python libraries home
 
 Also pay attention to `ReadMe.md` files inside those directories.
